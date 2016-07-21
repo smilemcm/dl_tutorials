@@ -10,3 +10,5 @@ bootstraping
 ResNet의 특징은 52층까지 올라갈때, 학습을 통해서 52층까지 가다보면 중간에 많은 데이터가 사라진다.
 그래서 지금길을 제공해주는게 ResNet의 큰 특징이다.
 
+depth vs width 
+ 
